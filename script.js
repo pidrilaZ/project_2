@@ -1,0 +1,1 @@
+alert("Welcome to the Uzbek language and literature state exam test!");     
